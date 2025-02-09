@@ -8,7 +8,7 @@
 <body>
     
 <?php
-$fruits = array("Apple", "Banana", "Orange", "Mango", "Grapes", "Pineapple", "Strawberry");
+$fruits = array("Dragonfruit", "Banana", "Tangerine", "Ponkan", "Grapes", "Pineapple", "Mango");
 ?>
 
 <ol>
