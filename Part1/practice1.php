@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <form action="index.php" method="post">
+    <form action="practice1.php" method="post">
         <label for="side1">First side:</label>
         <input type="int" name="side1" id="side1">
         <label for="side2">Second side:</label>
