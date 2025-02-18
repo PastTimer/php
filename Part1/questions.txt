@@ -63,3 +63,24 @@ Answer>> Maeve
 ##Question 14
 
 Answer>> jane@gmail.com
+
+##Question 15
+
+Answer>> 
+
+array(2) {
+	[0] =>
+	array(2){
+		[0] =>
+		string(5) "apple"
+		[1] =>
+		string(6) "banana"
+	}
+	[1] =>
+	array(2) {
+		[0] =>
+		string(5) "grape"
+		[1] =>
+		string(5) "mango"
+	}
+}
