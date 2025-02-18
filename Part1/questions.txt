@@ -1,0 +1,11 @@
+##Question 9
+
+Answer>> The keys in the array are: 1,2,3
+
+##Question 10
+
+Answer>> $colors[1] = 'white'
+
+##Question 11
+
+Answer>> #f00
