@@ -1,3 +1,45 @@
+PART 1 - PHP
+
+##Question 1
+
+Answer>> Person Object
+          (
+          	[name]=>Alice
+	          [age]=>25
+          )
+
+##Question 2
+
+Answer>> object(Person)#1 (2) 
+        { 
+          ["name"]=> string(5) "Alice" 
+          ["age"]=> int(25) 
+        }
+
+##Question 3
+
+Answer>> float(10.5)
+
+##Question 4
+
+Answer>> The dot(.) character is used to concatinate strings.
+
+##Question 5
+
+Answer>> localhost
+
+##Question 6
+
+Answer>> $PI = 3.1416;
+
+##Question 7
+
+Answer>> 9
+
+##Question 8
+
+Answer>> null
+
 ##Question 9
 
 Answer>> The keys in the array are: 1,2,3
