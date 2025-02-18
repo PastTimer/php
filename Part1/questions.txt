@@ -9,3 +9,15 @@ Answer>> $colors[1] = 'white'
 ##Question 11
 
 Answer>> #f00
+
+##Question 12
+
+Answer>> 6
+
+##Question 13
+
+Answer>> Maeve
+
+##Question 14
+
+Answer>> jane@gmail.com
