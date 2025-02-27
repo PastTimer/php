@@ -42,7 +42,7 @@ Answer>> null
 
 ##Question 9
 
-Answer>> The keys in the array are: 1,2,3
+Answer>> The keys in the array are: "first_name", "last_name", "age"
 
 ##Question 10
 
